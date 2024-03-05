@@ -2,7 +2,8 @@
 
 Submitted by: **Lwazi Mabota**
 
-**Lwazi Mabota** is an app that ... [TODO] 
+**Wordle Part 2** is an app that ... allows the user to change the number of letters per row, the number of rows on the board, change to a new theme of words, and select an alien wordle
+causing the goal word to change after each guess
 
 Time spent: **2** hours spent in total
 
@@ -10,19 +11,19 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is completed:
 
-- [x ] User can change the number of letters per row (the length of the goal word)
-- [x ] User can change the numbers of rows on the board (how many guesses allowed)
-- [x ] User can select a new themed set to pull the goal word from
-- [x ] User can select "alien wordle", causing the goal word to change after each guess
+- [x] User can change the number of letters per row (the length of the goal word)
+- [x] User can change the numbers of rows on the board (how many guesses allowed)
+- [x] User can select a new themed set to pull the goal word from
+- [x] User can select "alien wordle", causing the goal word to change after each guess
 
 
 The following **optional** features are implemented:
 
-- [x ] App displays a reset button on the top left to reset the game (but make no changes to the settings)
+- [x] App displays a reset button on the top left to reset the game (but make no changes to the settings)
 
 The following **additional** features are implemented:
 
-- [x ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
